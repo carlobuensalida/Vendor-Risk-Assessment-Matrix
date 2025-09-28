@@ -1,4 +1,4 @@
-
+**![Vendor Risk Assessment Matrix](Project2_screenshot.png)**
 # Vendor-Risk-Assessment-Matrix
 A dynamic Excel tool for assessing and visualizing vendor risk levels in seconds 
 
