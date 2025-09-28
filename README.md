@@ -1,4 +1,8 @@
 **![Vendor Risk Assessment Matrix](Project2_screenshot.png)**
+**![Vendor Risk Assessment Matrix](Heatmap.png)**
+**![Vendor Risk Assessment Matrix](Inherent_risk_matrix.png)**
+**![Vendor Risk Assessment Matrix](Residual_matrix.png)**
+
 # Vendor-Risk-Assessment-Matrix
 A dynamic Excel tool for assessing and visualizing vendor risk levels in seconds 
 
